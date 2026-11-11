@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "My Shop POS",
+    "slug": "my-shop-pos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "myshoppos",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.preetika.myshoppos"
+    },
+    "plugins": ["expo-router"],
+    "extra": {
+      "eas": {
+        "projectId": "6f98f973-1af5-4112-bc2b-a11275ebfcdc"
+      }
+    }
+  }
+}
