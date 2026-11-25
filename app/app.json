@@ -9,7 +9,10 @@
     "android": {
       "package": "com.preetika.myshoppos"
     },
-    "plugins": ["expo-router"],
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
     "extra": {
       "eas": {
         "projectId": "6f98f973-1af5-4112-bc2b-a11275ebfcdc"
